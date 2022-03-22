@@ -1,1 +1,1 @@
-# Capstone
+# Gesture Recognition System
